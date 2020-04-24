@@ -7,7 +7,7 @@ The main difference is that [MultiType](https://github.com/drakeet/MultiType) su
 SimpleTypedListAdapter is a subclass to [ListAdapter](https://developer.android.com/reference/android/support/v7/recyclerview/extensions/ListAdapter). 
 **As a result of that, all data classes passed in with [submitList()](https://developer.android.com/reference/android/support/v7/recyclerview/extensions/ListAdapter#submitList(java.util.List%3CT%3E)) need to have its custom `equals()` method implemented**
 
-This project also simplied the implementation of [MultiType](https://github.com/drakeet/MultiType) down to [3 files](https://github.com/esong/SimpleTypedListAdapter/tree/master/library/src/main/java/com/yksong/simpletype). 
+This project also simplified the implementation of [MultiType](https://github.com/drakeet/MultiType) down to [3 files](https://github.com/esong/SimpleTypedListAdapter/tree/master/library/src/main/java/com/yksong/simpletype). 
 
 ## Usage 
 The usage of this Adapter is basically the same as [MultiType](https://github.com/drakeet/MultiType), but with some simplifications. 
