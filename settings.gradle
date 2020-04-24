@@ -1,0 +1,3 @@
+rootProject.name='MultiType'
+include ':app'
+include ':library'
